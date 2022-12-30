@@ -9,3 +9,24 @@ body {
     margin-bottom: 100px;
 
 }
+
+.about_text{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+
+}
+
+.signup_input{
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 10vw;
+}
+
+.signin_input{
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-top: 10vw;
+}
